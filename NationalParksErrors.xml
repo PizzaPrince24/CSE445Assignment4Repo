@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark>
+    <NationalPark Rating="4.9">
+        <Name>Grand Canyon</Name>
+        <Phone>928-638-7496</Phone>
+        <Phone>888-297-2757</Phone>
+        <Phone>866-499-2574</Phone>
+        <Address NearestAirport="Flagstaff Pulliam Airport">
+            <Number>8</Number>
+            <Street>S Entrance Road</Street>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Zion</Name>
+        <Phone>435-772-3256</Phone>
+        <Address>
+            <Number>1</Number>
+            <Street>Zion Park Blvd</Street>
+            <City>Springdale</City>
+            <State>UT</State>
+            <Zip>84767</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Glacier</Name>
+        <Phone>406-888-7800</Phone>
+        <Address NearestAirport="Glacier Park International Airport">
+            <Number>61</Number>
+            <Street>Scoyen Circle</Street>
+            <City>West Glacier</City>
+            <State>MT</State>
+            <Zip>59936</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Acadia</Name>
+        <Phone>207-288-3338</Phone>
+        <Phone>207-288-8800</Phone>
+        <Address NearestAirport="Hancock County-Bar Harbor Airport">
+            <Number>20</Number>
+            <Street>McFarland Hill Drive</Street>
+            <City>Bar Harbor</City>
+            <State>ME</State>
+            <Zip>04609</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Olympic</Name>
+        <Phone>360-565-3130</Phone>
+        <Phone>360-565-3100</Phone>
+        <Phone>360-565-3131</Phone>
+        <Address NearestAirport="William R. Fairchild International Airport">
+            <Number>3002</Number>
+            <Street>Mount Angeles Road</Street>
+            <City>Port Angeles</City>
+            <State>WA</State>
+            <Zip>98362</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Rocky Mountain</Name>
+        <Address NearestAirport="Denver International Airport">
+            <Number>1000</Number>
+            <Street>US Highway 36</Street>
+            <City>Estes Park</City>
+            <State>CO</State>
+            <Zip>80517</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Badlands</Name>
+        <Phone>605-433-5361</Phone>
+        <Address NearestAirport="Rapid City Regional Airport">
+            <Number>25216</Number>
+            <Street>Ben Reifel Road</Street>
+            <City>Interior</City>
+            <State>SD</State>
+            <Zip>57750</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Biscayne</Name>
+        <Phone>786-335-3620</Phone>
+        <Phone>786-335-3630</Phone>
+        <Address NearestAirport="Miami International Airport">
+            <Number>9700</Number>
+            <Street>SW 328th Street, Sir Lancelot Jones Way</Street>
+            <City>Homestead</City>
+            <State>FL</State>
+            <Zip>33033</Zip>
+    </NationalPark>
+    <NationalPark>
+        <Name>Joshua Tree</Name>
+        <Phone>760-367-5500</Phone>
+        <Phone>760-367-5554</Phone>
+        <Address NearestAirport="Palm Springs International Airport">
+            <Number>74485</Number>
+            <Street>National Park Drive</Street>
+            <City>Twentynine Palms</City>
+            <State>CA</State>
+            <Zip>92277</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Sequoia</Name>
+		<Name>Sequoia</Name>
+        <Phone>559-565-3341</Phone>
+        <Address NearestAirport="Fresno Yosemite International Airport">
+            <Number>47050</Number>
+            <Street>Generals Highway</Street>
+            <City>Three Rivers</City>
+            <State>CA</State>
+            <Zip>93271</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark>
+        <Name>Black Canyon of the Gunnison</Name>
+        <Phone>970-641-2337</Phone>
+        <Address NearestAirport="Montrose Regional Airport">
+            <Number>102</Number>
+            <Street>Elk Creek</Street>
+            <City>Gunnison</City>
+            <State>CO</State>
+            <Zip>81230</Zip>
+        </Address>
+    </NationalPark>
+</NationalPark>
