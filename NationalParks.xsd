@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-
+<xs:schema 
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="https://github.com/PizzaPrince24/CSE445Assignment4Repo/"
+	xmlns="https://github.com/PizzaPrince24/CSE445Assignment4Repo/"
+	elementFormDefault="qualified">
 	<xs:element name="NationalParks">
 		<xs:complexType>
 			<xs:sequence>
